@@ -57,3 +57,28 @@ Example Output:
 0 0 0 0
 0 1 1 0
 0 1 1 0
+
+
+---
+
+## **How to Use**  
+
+1. **Set Up**:  
+ - Ensure an x86 Assembly-compatible environment (e.g., MASM, NASM, or an emulator like DOSBox).  
+ - Load the program into the assembler and compile it.  
+
+2. **Provide Input**:  
+ - Input the grid configuration in the specified format.  
+
+3. **Run the Program**:  
+ - The program computes and outputs the final state of the grid after applying the rules for the given number of generations.  
+
+---
+
+## **Why This Project?**  
+This project showcases the application of Assembly language to implement an algorithmic simulation. It is an excellent exercise in low-level programming, providing insights into memory management and efficient logic design.  
+
+---  
+
+Feel free to contribute, report issues, or fork the repository to enhance the functionality!  
+
